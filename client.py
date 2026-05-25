@@ -3,7 +3,7 @@ import sys
 
 HOST = '127.0.0.1'
 PORT = 5000
-IMAGE_PATH = 'minha_imagem_teste.png' 
+IMAGE_PATH = 'teste.png' 
 
 def send_image():
     try:

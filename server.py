@@ -2,7 +2,7 @@ import socket
 import os
 import hashlib
 
-HOST = '0.0.0.0'
+HOST = '127.0.0.1'
 PORT = 5000
 SAVE_DIR = os.path.expanduser('~/Pictures/')
 
